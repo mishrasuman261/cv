@@ -1,0 +1,87 @@
+.firstbox
+{
+  background-color:#B5EAEA;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  position: relative;
+  top: 30px;
+  color: #66BFBF;
+  line-height: 2;
+}
+body
+{
+  border-style: none;
+  text-align: center;
+  margin: 0;
+}
+h2
+{
+  margin: inherit;
+  padding-left: 15px;
+}
+h3
+{
+  margin: inherit;
+}
+h1
+{
+  margin-top: 15px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 400px;
+  top: 220px;
+}
+.top-cloud
+{
+  position: relative;
+  bottom: 7px;
+  left: 250px;
+}
+.middle-container
+{
+  position: relative;
+  top: 50px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.skill-image1
+{
+  width: 20%;
+  float: left;
+}
+.skill-image2
+{
+  width: 20%;
+  float: right;
+}
+.bottom-container
+{
+  position: relative;
+  top: 50px;
+}
+.footer-link
+{
+  color:  #11999E;
+}
+
+#x
+{
+  font-weight: normal;
+}
+#y
+{
+  margin: 0;
+}
+#z
+{
+  margin: 0;
+}
